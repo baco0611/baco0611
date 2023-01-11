@@ -2,9 +2,9 @@
 
 ## 👉👉👉About Me
 
-- I am Baco real name is ***Van Nguyen Bao Huynh***, a **Infomation Technology** sophomore studying at the Hue University of Sciences (HUSC) 
+- I am Baco real name is ***Van Nguyen Bao Huynh***, an **Infomation Technology** sophomore studying at the Hue University of Sciences (HUSC) 
 - I am most skilled in Front-end Web Development
-- I am interested in learning more about Web3, Cloud Development and AI
+- I am interested in learning more about Web3, Cloud Development, and AI
 - In the future, I want to be a Full Stack Web Development be able to apply Artificial Intelligence and Security Technologies to products.
 
 🕺🕺 Outside the tech world, I enjoy dancing, organizing events, and hanging out with my friends.
