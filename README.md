@@ -47,7 +47,5 @@
 
 ## 📲🤙📫 Connect with me!
 - GitHub: [https://github.com/baco0611 ](https://github.com/baco0611) 
-- LinkedIn: [https://www.linkedin.com/in/bao-huynhvannguyen/
-![image](https://user-images.githubusercontent.com/90149684/219441676-bf174e63-7433-409f-9e60-8870dea02708.png)](https://www.linkedin.com/in/bao-huynhvannguyen/)
-
+- LinkedIn: [https://www.linkedin.com/in/bao-huynhvannguyen/](https://www.linkedin.com/in/bao-huynhvannguyen/)
 - Gmail: baoblink@gmail.com
