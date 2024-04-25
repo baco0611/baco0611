@@ -5,12 +5,10 @@
 - I am Baco real name is ***Bao Huynh Van Nguyen***, an **Infomation Technology** junior studying at the Hue University of Sciences (HUSC).
 - I am most skilled in Front-end Web Development.
 - My major is Computer Science, in which I am interested in digital image processing and computer vision.
-- I am interested in learning more about Web3, Cloud Development, and AI.
+- I am interested in learning more about Computer Vision, Natural Language Processing, Web3 and Cloud Development.
 - In the future, I want to become an AI engineer in the field of computer vision and be able to apply those techniques to my products (like web, app, ...)
 
 🕺🕺 Outside the tech world, I enjoy dancing, organizing events, and hanging out with my friends.
-<br/>
-⚡⚡ *Fun fact:* I am a student majoring in Japanese at Quoc Hoc High School for the Gifted.
 
 <br/>
 
@@ -27,7 +25,7 @@
 <br/>
 
 ## 😶‍🌫️ Networking
-- I am also looking to collaborate on web development projects
+- I am interning as an AI intern in the field of Computer Vision. So I would be happy to connect with many people in this field.
 - Connect with me down below!
 
 <br/>
